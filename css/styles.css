@@ -1,0 +1,27 @@
+body {
+}
+
+#mainContainer {
+    width: 85%;
+    background-color: white;
+    margin: 25px auto;
+    border: 5px groove #ece9e9;
+    border-radius: 5px;
+    font-variant: small-caps;
+}
+#header {
+    color: #616161;
+    background: #ece9e9;
+    text-shadow: #e0e0e0 1px 1px 0;
+    font-variant: small-caps;
+    padding: 15px;
+    margin: 15px 0px 15px 0px;
+}
+
+.card-header {
+    color: #616161;
+    background: #ece9e9;
+    text-shadow: #e0e0e0 1px 1px 0;
+    font-size: 20px
+}
+
